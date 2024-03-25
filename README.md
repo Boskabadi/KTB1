@@ -1,4 +1,4 @@
-KT-Biologics I Continuous Biopharmaceutical Process Simulation
+KTB1- A Dynamic Simulation Model for Continuous Biologics Manufacturing
 
 # Overview
 Welcome to the KT-Biologics I Continuous Biopharmaceutical Process Simulation repository. This repository contains Simulink files and scripts related to the simulation of a continuous biopharmaceutical process. 
